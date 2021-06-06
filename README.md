@@ -1,2 +1,17 @@
 # Lyrics-Generation-using-RNN-
-Build to inspire lyricist to write efficient lyrics using Recurrent Neural Network :)
+## Build to inspire lyricist to write efficient lyrics using Recurrent Neural Network :)
+
+![1](https://user-images.githubusercontent.com/62770603/120918565-ad6d8600-c6d2-11eb-98b3-684d65ef7560.png)
+![3](https://user-images.githubusercontent.com/62770603/120918582-c118ec80-c6d2-11eb-955a-e1ddf95beae8.png)
+![4](https://user-images.githubusercontent.com/62770603/120918584-c24a1980-c6d2-11eb-974b-201a71340917.png)
+![5](https://user-images.githubusercontent.com/62770603/120918585-c2e2b000-c6d2-11eb-8479-3b790fe9d081.png)
+![6](https://user-images.githubusercontent.com/62770603/120918586-c37b4680-c6d2-11eb-8692-e882d0253e4b.png)
+![7](https://user-images.githubusercontent.com/62770603/120918590-c413dd00-c6d2-11eb-9bf3-7a823ffc4da9.png)
+![8](https://user-images.githubusercontent.com/62770603/120918592-c4ac7380-c6d2-11eb-8dbe-9c8d36f2a1bb.png)
+![9](https://user-images.githubusercontent.com/62770603/120918593-c5450a00-c6d2-11eb-930c-7d8170d6c9e9.png)
+![10](https://user-images.githubusercontent.com/62770603/120918594-c5dda080-c6d2-11eb-98f3-7472996da456.png)
+![11](https://user-images.githubusercontent.com/62770603/120918596-c70ecd80-c6d2-11eb-8efa-c1a48c09e96a.png)
+![12](https://user-images.githubusercontent.com/62770603/120918597-c70ecd80-c6d2-11eb-8c8a-83b9639aaee9.png)
+![13](https://user-images.githubusercontent.com/62770603/120918599-c7a76400-c6d2-11eb-8a29-9cadd91c8c12.png)
+![14](https://user-images.githubusercontent.com/62770603/120918574-be1dfc00-c6d2-11eb-8b5f-5dfdacd9d4b4.png)
+![15](https://user-images.githubusercontent.com/62770603/120918577-bfe7bf80-c6d2-11eb-87d1-6bd6aee3016d.png)
